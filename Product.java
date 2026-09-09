@@ -9,4 +9,7 @@ public class Product {
     public int deduct(int a, int b){
         return a-b;
     }
+    public int sum(int a, int b){
+        return a+b;
+    }
 }
